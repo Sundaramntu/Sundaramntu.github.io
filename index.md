@@ -16,4 +16,5 @@ Navajo Technical University
 
 <li>[Github link] https://sundaramntu.github.io</li>
 
-  ![Tux, the Linux mascot]
+<img width="1280" height="960" alt="WhatsApp Image 2026-02-17 at 4 48 47 PM" src="https://github.com/user-attachments/assets/d0d7cd25-f62a-4b2f-94f6-9bf86d990260" />
+
