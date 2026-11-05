@@ -7,7 +7,7 @@ Navajo Technical University
 <li>Work Experiences </li>
 <li>Places worked </li>
 
-<ul>
+
   <li>National Indian Education Association’s (NIEA) annual convention and trade show held in Spokane, Washington.</li>
   
   <li>CROWNPOINT, N.M. — October 2025, from Oct 7th to 11th  faculty from Navajo Technical University (NTU) attended the National Indian Education Association’s (NIEA) annual convention and trade show held in Spokane, Washington. According to the NIEA’s “Annual Events” page, the convention is a central forum for Native educators to share best practices, network, and advocate for policy reforms.  National Indian Education Association. </li>
