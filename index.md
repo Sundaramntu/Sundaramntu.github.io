@@ -16,4 +16,4 @@ Navajo Technical University
 
 <li>[Github link] https://sundaramntu.github.io</li>
 
-
+  ![Tux, the Linux mascot]
