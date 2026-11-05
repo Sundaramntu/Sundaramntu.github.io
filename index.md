@@ -1,4 +1,4 @@
-## About me
+## About Dr.Sundaram Arumugam 
 
-Dr.Sundaram Arumugam 
+Associate professor
 Navajo Technical University
