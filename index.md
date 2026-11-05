@@ -4,3 +4,4 @@ Associate professor
 Navajo Technical University
 <ol>
 <li>Education Qualification </li>
+<li>Work Experiences </li>
