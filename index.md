@@ -15,7 +15,6 @@ Navajo Technical University
 <li>[Linked in](https://www.linkedin.com/posts/dr-sundaram-arumugam-b64175153_crownpoint-nm-october-2025-from-oct-activity-7384333920546275329-HFYP) </li>
 
 <li>[Github link](https://sundaramntu.github.io)</li>
-![National Indian Education Association’s (NIEA) annual convention Team]
 
-![https://media.licdn.com/dms/image/v2/D5622AQFNPRGV4_jung/feedshare-shrink_800/B56Znpsg7kKUAg-/0/1760562399267?e=2147483647&v=beta&t=Gb1FUP-61K5ISg4EL7KOLWcBO4vQeaQ83MF4lArJ7UI]
+![Picture Indian Education Association’s (NIEA) annual convention Team](https://media.licdn.com/dms/image/v2/D5622AQFNPRGV4_jung/feedshare-shrink_800/B56Znpsg7kKUAg-/0/1760562399267?e=2147483647&v=beta&t=Gb1FUP-61K5ISg4EL7KOLWcBO4vQeaQ83MF4lArJ7UI)
 
